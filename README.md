@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Deteksi Diabetes Menggunakan Pima Indians Dataset
+# Proyek Machine Learning - Deteksi Diabetes Menggunakan Pima Indians Dataset
 
 ## Domain Proyek
 
